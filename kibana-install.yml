@@ -1,6 +1,5 @@
 ---
-# run it locally with: ansible-playbook -i inventory-local kibana-install.yml --ask-become-pass
-# run it remotely with: ansible-playbook -i inventory kibana-install.yml
+
 - hosts: kibanaservers
   become: yes
   become_user: root
