@@ -1,0 +1,2 @@
+[kibanaservers]
+localhost ansible_connection=local
