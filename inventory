@@ -1,2 +1,2 @@
 [kibanaservers]
-localhost
+10.0.16.14  ansible_connection=ssh  ansible_user=root
