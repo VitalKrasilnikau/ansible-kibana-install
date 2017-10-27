@@ -1,3 +1,3 @@
 [submodule "kibana"]
 	path = kibana
-	url = https://github.com/geerlingguy/ansible-role-kibana.git
+	url = https://github.com/VitalKrasilnikau/ansible-role-kibana.git
